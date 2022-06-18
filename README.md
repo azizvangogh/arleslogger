@@ -1,6 +1,9 @@
 # arleslogger
 that is new keylogger for every os systems. I programmed with python.
 
+DOWNLOAD
+git clone https://github.com/azizvangogh/arleslogger/
+
 
 ###USE LINUX### 
 open source codes keylogger.py
